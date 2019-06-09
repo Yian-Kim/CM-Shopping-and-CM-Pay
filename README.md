@@ -6,7 +6,7 @@
 1) 프로젝트 기획
 2) 요구분석
 3) 화면설계
-4) 능구현
+4) 기능구현
 # Member
 - [KCM](https://github.com/Chanmi-Kim)
 - [CMH](https://github.com/chans08)
