@@ -3,10 +3,10 @@
 - 프로젝트 진행 중입니다.
 # Step
 - 프로젝트는 다음 단계에 따라 진행됩니다.
-## 프로젝트 기획
-## 요구분석
-## 화면설계
-## 기능구현
+1) 프로젝트 기획
+2) 요구분석
+3) 화면설계
+4) 능구현
 # Member
-- KCM
-- CMH
+- [KCM](https://github.com/Chanmi-Kim)
+- [CMH](https://github.com/chans08)
