@@ -1,0 +1,71 @@
+/* code.css */
+
+#main {
+	border: 0px solid black;
+	width: 800px;
+}
+
+#header {
+	margin-bottom: 5px;
+}
+
+#header #tblMenu, #header #tblMenu td {
+	border-top: 0px;
+}
+
+#header #tblMenu td {
+	width: 20%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	font-variant: small-caps;
+}
+
+#header h1 {
+	text-align: center;
+	font-variant: small-caps;
+}
+
+#content {
+	padding: 30px;
+	min-height: 500px; /* 내용이 500px보다 적을 때는 최소 500px 확보, 내용이 500px보다 크면 내용물에 따라 늘어나라 */
+}
+
+#footer {
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 50px;
+}
+
+
+#content .table th {
+	background-color: #eee;
+	vertical-align: middle;
+	text-align: center;
+	/* font-weight: normal; */
+	color: #555;
+}
+
+#btns {
+	text-align: center;
+}
+
+
+#content #tbl1 pre {
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
