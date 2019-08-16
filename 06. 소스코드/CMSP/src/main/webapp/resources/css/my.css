@@ -1,0 +1,48 @@
+/* my.css */
+
+/* 상자 프리셋 */
+.box {
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+}
+
+.box.big {
+	width: 400px;
+	height: 400px;
+}
+
+.box.wide {
+	width: 400px;
+}
+
+.box.yellow {
+	background-color: gold;
+}
+
+.box.blue {
+	background-color: cornflowerblue;
+}
+
+.box.red {
+	background-color: tomato;
+}
+
+
+/* 테이블 프리셋 */
+.table {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.table th, .table td {
+	border: 1px solid #ccc;
+}
+
+.table.sprite tr:nth-child(odd) {
+	background-color: #eee;
+}
